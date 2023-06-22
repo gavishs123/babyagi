@@ -1,0 +1,7 @@
+openai
+chromadb
+pre-commit
+python-dotenv
+tiktoken
+llama-cpp-python
+argparse
